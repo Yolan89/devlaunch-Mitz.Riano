@@ -10,4 +10,4 @@ tradicional.
 A diferencia de las monedas tradicionales emitidas por gobiernos, como el dólar o el euro, Bitcoin no está controlado por ninguna entidad central. En su lugar, las transacciones son verificadas y registradas en una base de datos pública llamada "blockchain" (cadena de bloques), que es mantenida por una red de computadoras distribuidas en todo el mundo. 
 
 
-Bitcoin se puede utilizar para realizar pagos, almacenar valor o como una inversión. Su valor es muy volátil, lo que lo convierte en una moneda especulativa, pero también ha ganado popularidad como refugio de valor en momentos de incertidumbre económica.ag
+Bitcoin se puede utilizar para realizar pagos, almacenar valor o como una inversión. Su valor es muy volátil, lo que lo convierte en una moneda especulativa, pero también ha ganado popularidad como refugio de valor en momentos de incertidumbre económica.
