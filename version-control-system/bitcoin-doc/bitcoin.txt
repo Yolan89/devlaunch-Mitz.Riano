@@ -6,3 +6,5 @@ controlar la creación de nuevas unidades. Fue creada en 2008 por
 una persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto 
 y lanzada en 2009 como una alternativa descentralizada al sistema financiero 
 tradicional.
+
+A diferencia de las monedas tradicionales emitidas por gobiernos, como el dólar o el euro, Bitcoin no está controlado por ninguna entidad central. En su lugar, las transacciones son verificadas y registradas en una base de datos pública llamada "blockchain" (cadena de bloques), que es mantenida por una red de computadoras distribuidas en todo el mundo. 
