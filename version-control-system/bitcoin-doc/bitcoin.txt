@@ -1,1 +1,8 @@
 ¿Qué es Bitcoin?
+
+Bitcoin es una criptomoneda, es decir, una moneda digital que 
+utiliza tecnología de cifrado para asegurar las transacciones y 
+controlar la creación de nuevas unidades. Fue creada en 2008 por 
+una persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto 
+y lanzada en 2009 como una alternativa descentralizada al sistema financiero 
+tradicional.
