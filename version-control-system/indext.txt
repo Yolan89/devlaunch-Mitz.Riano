@@ -1,7 +1,5 @@
 ¿Qué es Bitcoin?
 
-
-
 Introducción
 En el mundo de las criptomonedas, han surgido diversos términos y conceptos
 que pueden resultar confusos para los usuarios nuevos. Entre ellos, se encuentra 
@@ -17,3 +15,5 @@ Baitcoin no es una criptomoneda ampliamente aceptada ni reconocida por las princ
 A menudo, las monedas denominadas "Baitcoin" no están respaldadas por proyectos sólidos ni por un equipo de desarrolladores con experiencia en el ámbito blockchain. En lugar de centrarse en la creación de una tecnología robusta o de un ecosistema funcional, estos tokens tienden a ser usados como herramientas para hacer crecer especulativamente el precio de una criptomoneda a través de campañas publicitarias o de marketing agresivas. Es común ver que los creadores de Baitcoin promuevan su moneda con mensajes persuasivos que apelan a la codicia de los inversores, sin ofrecer garantías reales sobre su futuro.
 
 Además, muchas veces Baitcoin es utilizada como parte de esquemas de "pump and dump" (subir y bajar el precio) o estafas conocidas como rug pulls, donde los desarrolladores abandonan el proyecto después de haber conseguido una gran cantidad de fondos de los inversores.
+
+Cierre
