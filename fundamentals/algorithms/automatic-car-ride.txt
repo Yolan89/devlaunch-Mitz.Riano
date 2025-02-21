@@ -1,0 +1,21 @@
+Ejemplo de las acciones de las acciones que realizaraa al prepararte para conducir
+un coche automatico.
+
+Busco las llaves del coche.
+Bajas a buscar el coche
+
+Colocas la llave para abrir la puerta
+Abres la puerta
+Te sientas acomodas el asiento
+Revisas los espejos 
+Te pones el cinturón de seguridad
+Metes la llave para encender en carro
+Enciendes el carro
+Quitas el freno de mano.
+Colocas la reversa 
+Pisas el acelerador
+Sales de la cochera.
+¿Revisas si viene un carro?
+Si viene un carro, me detengo.
+Sino viene sigo hasta salir de la cochera.
+Salgo de la cochera y me pongo en marcha
