@@ -1,0 +1,20 @@
+Proporciona una explicación detallada en un archivo .txt de las intrucciones que realizarías 
+al cocinar un huevo.
+
+Huevo
+¿Reviso si hay huevos en la nevera? 
+-Si hay huevo lo tomo
+-Sino hay tengo que ir a comprarlos a la tienda. 
+Tomo el huevo
+Busco un sartén
+Coloco el sartén en la estufa
+Enciendo la estufa
+Le pongo aceite al sartén.
+Rompe el huevo en el sartén
+Vierto el huevo en el sartén
+Coloco sal al gusto.
+Lo meneo hasta que esté cocido.
+Apago la estufa.
+Busco un plato 
+Coloco el huevo cocido.
+Listo.
