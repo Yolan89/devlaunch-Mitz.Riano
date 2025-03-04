@@ -37,6 +37,6 @@ console.log(score);
 console.log(`
     
     Torneo: ${everName}- ${time}\n
-    Euipos: ${localTeam} VS ${awayTeam}\n
+    Equipos: ${localTeam} VS ${awayTeam}\n
     resultado: ${score}
     `);
