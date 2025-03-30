@@ -37,5 +37,5 @@ const acc1 = new Account(1, 'Mitz', 10000)
 
 const acc2 = new Account(2, 'Pola')
 
-console.log(acc1.transfer(acc2, 2000))
+console.log(acc1.transfer(acc2, 6000))
 console.log(acc1);
