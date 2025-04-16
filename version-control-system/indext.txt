@@ -1,0 +1,21 @@
+Entendiendo el oro digital (Bitcoin)
+
+Introducción
+En el mundo de las criptomonedas, han surgido diversos términos y conceptos
+que pueden resultar confusos para los usuarios nuevos. Entre ellos, se encuentra 
+Baitcoin, una criptomoneda que ha generado cierta controversia y curiosidad en los
+últimos tiempos. Aunque no es una moneda tradicional como el Bitcoin, Baitcoin ha
+atraído la atención por su naturaleza experimental y su vínculo con la idea de atraer 
+inversores a proyectos dudosos o especulativos. Este artículo tiene como objetivo explicar
+ qué es Baitcoin, sus características y por qué ha generado tanto debate en el ámbito digital.
+
+ Cuerpo
+Baitcoin no es una criptomoneda ampliamente aceptada ni reconocida por las principales plataformas de intercambio de criptomonedas. Su nombre proviene de la palabra bait (cebo, en inglés), lo que refleja su propósito inicial: atraer a inversores incautos a través de promesas poco realistas y una imagen llamativa. En este sentido, Baitcoin funciona como un gancho para captar la atención, sin ofrecer valor real o soluciones tecnológicas innovadoras.
+
+A menudo, las monedas denominadas "Baitcoin" no están respaldadas por proyectos sólidos ni por un equipo de desarrolladores con experiencia en el ámbito blockchain. En lugar de centrarse en la creación de una tecnología robusta o de un ecosistema funcional, estos tokens tienden a ser usados como herramientas para hacer crecer especulativamente el precio de una criptomoneda a través de campañas publicitarias o de marketing agresivas. Es común ver que los creadores de Baitcoin promuevan su moneda con mensajes persuasivos que apelan a la codicia de los inversores, sin ofrecer garantías reales sobre su futuro.
+
+Además, muchas veces Baitcoin es utilizada como parte de esquemas de "pump and dump" (subir y bajar el precio) o estafas conocidas como rug pulls, donde los desarrolladores abandonan el proyecto después de haber conseguido una gran cantidad de fondos de los inversores.
+
+Cierre
+
+good bye
