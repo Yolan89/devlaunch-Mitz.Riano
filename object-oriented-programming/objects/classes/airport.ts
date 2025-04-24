@@ -9,9 +9,9 @@ class Airport {
 
     constructor(name: string, location: string) {
         this._name = name,
-            this._location = location,
-            this._runwayStatus = true,
-            this._trafficLevel = 'low'
+        this._location = location,
+        this._runwayStatus = true,
+        this._trafficLevel = 'low'
 
     }
     get runwayStatus(): boolean {
