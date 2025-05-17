@@ -89,7 +89,9 @@ class Charizad extends Pokemon {
         if (this.isAlive()) {
             const damage = 10
             opponent.receiveDamage(damage)
-
+            console.log(pika1);
+            
+           this.extraPower()
         }
 }
     
@@ -118,6 +120,7 @@ const Charizad1 = new Charizad
 // console.log(pika1.health);
 // console.log(Charizad1.health);
 Charizad1.fireBreath(pika1)
+
 
 
 
